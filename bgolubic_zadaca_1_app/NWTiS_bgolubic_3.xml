@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>NWTiS bgolubic 2023.</comment>
+<entry key="posluziteljUdaljenostiVrata">8000</entry>
+<entry key="posluziteljUdaljenostiAdresa">localhost</entry>
+<entry key="odstupanjeTlak">30</entry>
+<entry key="odstupanjeVlaga">50</entry>
+<entry key="odstupanjeTemp">10</entry>
+<entry key="datotekaUredaja">uredaji.csv</entry>
+<entry key="datotekaLokacija">lokacije.csv</entry>
+<entry key="datotekaKorisnika">korisnici.csv</entry>
+<entry key="brojRadnika">10</entry>
+<entry key="brojCekaca">10</entry>
+<entry key="mreznaVrata">8000</entry>
+<entry key="maksCekanje">0</entry>
+<entry key="ispis">0</entry>
+</properties>

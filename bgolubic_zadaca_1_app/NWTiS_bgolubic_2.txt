@@ -1,0 +1,11 @@
+#NWTiS bgolubic 2023.
+#Fri Mar 24 08:06:05 CET 2023
+ispis=0
+mreznaVrata=8001
+brojCekaca=10
+brojZadnjihSpremljenih=2
+datotekaSerijalizacija=podaci.bin
+
+
+
+

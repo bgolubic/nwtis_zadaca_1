@@ -1,0 +1,12 @@
+#NWTiS bgolubic 2023.
+#Fri Mar 24 08:06:05 CET 2023
+ispis=1
+maksCekanje=0
+trajanjeSekunde=1
+brojPokusaja=10
+korisnickoIme=pkos
+korisnickaLozinka=123456
+datotekaMeteo=/home/NWTiS_2/bgolubic/bgolubic_zadaca_1/bgolubic_zadaca_1_app/meteoSimulacija.csv
+datotekaProblema=problemi.csv
+posluziteljGlavniAdresa=127.0.0.1
+posluziteljGlavniVrata=8000

@@ -1,0 +1,15 @@
+#NWTiS bgolubic 2023.
+#Fri Mar 24 08:06:05 CET 2023
+ispis=0
+maksCekanje=0
+mreznaVrata=8000
+brojCekaca=10
+brojRadnika=10
+datotekaKorisnika=/home/NWTiS_2/bgolubic/bgolubic_zadaca_1/bgolubic_zadaca_1_app/korisnici.csv
+datotekaLokacija=/home/NWTiS_2/bgolubic/bgolubic_zadaca_1/bgolubic_zadaca_1_app/lokacije.csv
+datotekaUredaja=/home/NWTiS_2/bgolubic/bgolubic_zadaca_1/bgolubic_zadaca_1_app/uredaji.csv
+odstupanjeTemp=1
+odstupanjeVlaga=50
+odstupanjeTlak=1
+posluziteljUdaljenostiAdresa=localhost
+posluziteljUdaljenostiVrata=8001
